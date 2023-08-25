@@ -1,6 +1,6 @@
 ### Olá, eu sou a Rebeca Mariano 👋
 
-### Estou cursando Análise e Desenvolvimento de Sistemas na FMU e no momento estou estudando e desenvolvendo minhas habilidades nas seguintes tecnológias: 
+### E estou cursando Análise e Desenvolvimento de Sistemas na FMU, no momento estou estudando e desenvolvendo minhas habilidades nas seguintes tecnológias: 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -16,7 +16,7 @@
     <img aling="center" alt="Google-Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div>
 
-### ⚠️ Estou com alguns jobs em execução e em breve estarei os disponibilizando.💥🚀
+### ⚠️ Em breve estarei disponibilizando alguns projetos que está em execução. 💥🚀
 
 ![Rebeca GitHub stats](https://github-readme-stats.vercel.app/api?username=rebeca&show_icons=true&theme=radical)
 
