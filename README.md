@@ -16,7 +16,9 @@
     <img aling="center" alt="Google-Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div>
 
-### ⚠️ Em breve estarei disponibilizando alguns projetos que está em execução. 💥🚀
+### ⚠️ Em breve estarei disponibilizando + alguns projetos que está em execução. 💥🚀
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeca&hide_progress=true)
 
 ![Rebeca GitHub stats](https://github-readme-stats.vercel.app/api?username=rebeca&show_icons=true&theme=radical)
 
