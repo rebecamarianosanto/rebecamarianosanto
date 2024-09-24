@@ -1,7 +1,5 @@
 ### Olá, eu sou a Rebeca Mariano 👋
 
-### Estou cursando Análise e Desenvolvimento de Sistemas na FMU e atualmente praticando e desenvolvendo minhas habilidades para as seguintes tecnológias: 
-
 <div style="display: inline_block"><br/>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
