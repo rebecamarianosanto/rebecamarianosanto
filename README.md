@@ -1,17 +1,20 @@
-## Olá, eu sou **Rebeca Mariano** 👋
+## Olá, sou **Rebeca Mariano** 👋
 
 Desenvolvedora web em constante aprendizado, apaixonada por tecnologia, interfaces modernas e soluções inovadoras que agreguem valor aos clientes.
 
 
 ## ✨ Sobre mim:
 
+
 🎓 Formada em Análise e Desenvolvimento de Sistemas pela FMU
 
 📅 27 anos | São Paulo - SP
 
-🌟 Focado(a) em Front-End (mas aberta a novas oportunidades!)
+🌟 Focada em Front-End (mas aberta a novas oportunidades!)
 
 💡 Criando e aprimorando projetos para expandir meus conhecimentos e portfólio
+
+🥳 No meu tempo livre, adoro ler, assistir filmes, bater papo com a galera, pedalar, dirigir e explorar novos sabores na cozinha!
 
 
 ## 📌 Meus contatos:
