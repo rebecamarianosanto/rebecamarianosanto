@@ -8,7 +8,7 @@ Desenvolvedora web em constante aprendizado, apaixonada por tecnologia, interfac
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas pela FMU
 
-📅 27 anos | São Paulo - SP
+📅 28 anos | São Paulo - SP
 
 🌟 Focada em Front-End (mas aberta a novas oportunidades!)
 
